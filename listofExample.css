@@ -1,0 +1,43 @@
+h3{
+    color: blueviolet;
+}
+
+h2{
+    color: aqua;
+}
+
+h1{
+    /* background: rgb(255,80,80);
+    /* border-color: blue;
+    border-width: 5px;
+    border-style: solid; */
+
+    /* border: 5px solid blue; */ 
+    font-family: "ariel";
+    font-size: 40px;
+    text-align: center;
+    text-decoration: overline;
+}
+
+
+/* body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9vaY9hXGFXkq8W2OPGirvHE3g2KxbL2Aki3lrAJh1ztrKoI1wnZx2n0njb4HOPTFO7s&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+p{
+    font-family: Tahoma;
+    font-style: italic;
+    font-size: 1.7em;
+    text-decoration: underline;
+    line-height: 2;
+}
+
+span{
+    font-weight: bold;
+}
+
+body{
+    background-color: yellow;
+}
